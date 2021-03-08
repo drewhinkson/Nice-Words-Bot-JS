@@ -2,4 +2,4 @@
 discordbot that tells you encouraging things
 
 
-<img src ="https://github.com/kakoon8/animesite/blob/master/Capture-1.PNG" />
+<img src ="https://github.com/kakoon8//Nice-Words-Bot-JS/blob/main/discordbot.PNG" />
